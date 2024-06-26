@@ -4,13 +4,14 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 
 
-| Kallesh A | Mission San Jose High School | **Computer Science* | **Incoming Junior** |
-<!--- |:--:|:--:|:--:|:--:|
-| FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior  --->
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
+|:--:|:--:|:--:|:--:|
+| Kallesh A | Mission San Jose High School | Software Engineering | Incoming Junior
 
-<!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
----> ![Book logo](/least-github-pages/assets/Kallesh A.heic)  
+<!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** ---> 
+
+
   
 <!--- # Final Milestone
 
