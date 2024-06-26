@@ -1,4 +1,4 @@
-# Project Name Here
+<! --- # Project Name Here
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
@@ -89,3 +89,15 @@ One of the best parts about Github is that you can view how other people set up 
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
 To watch the BSE tutorial on how to create a portfolio, click here.
+
+---> # Starter Project 
+
+<iframe width="1440" height="484" src="https://www.youtube.com/embed/fD4Bt4kgAtw" title="Kallesh A. Starter Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h3>Summary</h3>
+
+My starter project was a retro arcade game. It is a handheld game with includes five classic retro games: Tetris, Snakes, Racing Cars, Space Invaders, and Slots Machine. It is a fun and educational journey as you have to build it yourself. It is a great project once completed to use with family and friends. It is easy to assemble as the instructions are very straight forward. Its main features are six large buttons with rounded acrylic case corners for a comfortable user experience. The game’s working voltage is DC 3.5-5.5V. You can play games with a power bank, 5v power adapter or 3 AAA batteries.
+
+<h3>Challenges Faced</h3>
+
+Some challenges I faced was that I was missing a screw wich caused some difficulty and had to position my other screws in a way to keep it as stable as possible and also my lack of soldering caused the timer at the top to be placed in tilted and since I put too much solder it was extremely hard to remove the solder but it still worked overall. 
