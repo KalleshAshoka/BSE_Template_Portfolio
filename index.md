@@ -10,7 +10,8 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 
 <!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** ---> 
-<img scr="https://raw.githubusercontent.com/KalleshAshoka/Kallesh-Portfolio/gh-pages/Kallesh%20A%20(2).jpg" alt="Headshot Image" height="600px">
+<img src="https://raw.githubusercontent.com/KalleshAshoka/Kallesh-Portfolio/gh-pages/Kallesh%20A%20(2).jpg" alt="Headshot Image" height="600px">
+
 
   
 <!--- # Final Milestone
