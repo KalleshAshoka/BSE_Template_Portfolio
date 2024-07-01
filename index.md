@@ -95,7 +95,9 @@ One of the best parts about Github is that you can view how other people set up 
 
 To watch the BSE tutorial on how to create a portfolio, click here.
 
----> <h3>Starter Project</h3> 
+---> 
+
+<h3>Starter Project</h3> 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fD4Bt4kgAtw" title="Kallesh A. Starter Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
