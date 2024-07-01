@@ -44,7 +44,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <h3>Milestone 1</h3>
 
-<iframe width="1425" height="484" src="https://www.youtube.com/embed/7pln_3EW9Eg" title="Kallesh A. First Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7pln_3EW9Eg" title="Kallesh A. First Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h3> Summary </h3>
 My project is a custom object detection system. It uses TensorFlow Lite with a Raspberry Pi 4 and the BrainCraft HAT. It will be able to detect and recognize specific objects and has many real life uses such as it can be used in robotics and security systems. The main components needed for this project are a Raspberry Pi and it runs software to process data. The Adafruit BrainCraft HAT, is connected to the Raspberry Pi and provides a display or you can use a monitor instead with I have done. A keyboard and mouse to control the Raspberry Pi. And along with that to capture video I am using a  Raspberry Pi Camera Module 3. This video can be shown on both the Adafruit HAT or a laptop/monitor. The laptop uses OBS and manages the video output by the camera. And you would need a power supply to supply the entire project and allow it to run. Progress I have made so far is that I have attached all my hardware together and updated my Pi and have it all set up for my next milestones. 
