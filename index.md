@@ -37,7 +37,7 @@ Since my previous milestone I have added a camera and the specific camera I adde
 
 <h4> Challenges and Suprises</h4>
 
-The thing that was surprising about the project was that I thought it would be more challenging but everything seems to be running smooth for the most part. But I think I will face some issues as for the 3rd milestone it will be more coding intensive and I can run into some issues there. Previous challenges I faced was the Hat not working so I decided to use my monitor instead as it would be easier and higher resolution and overall easier to use. 
+The thing that was surprising about the project was that I thought it would be more challenging but everything seems to be running smooth for the most part. But I think I will face some issues as for the 3rd milestone it will be more coding intensive and I can run into some issues there. Previous challenges I faced was the Adafruit BrainCraft HAT not working so I decided to use my monitor instead as it would be easier and higher resolution and overall easier to use. 
 
 <h4> Future Plans </h4> 
 Some things that need to be completed before my final milestone are that I need to get the code for the actual object detection and get it working and set up the data set and do some AI training on parts to get it working properly. 
@@ -79,12 +79,13 @@ void loop() {
 }
 ```
 --->
-<!--- # Bill of Materials
+<h3> Bill of Materials </h3>
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
+| CanaKit Raspberry Pi 4 Starter Kit | Image/Object Detection | $119.95 | <a href="https://www.canakit.com/raspberry-pi-4-starter-kit.html/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
@@ -97,7 +98,6 @@ One of the best parts about Github is that you can view how other people set up 
 
 To watch the BSE tutorial on how to create a portfolio, click here.
 
----> 
 
 <h3>Starter Project</h3> 
 
