@@ -37,20 +37,26 @@ For your final milestone, explain the outcome of your project. Key details to in
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
-- Previous challenges you faced that you overcame
+- Previous challenges you faced that you overcame 
 - What needs to be completed before your final milestone 
 
-# First Milestone
+---> 
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<h3>Milestone 1</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1425" height="484" src="https://www.youtube.com/embed/7pln_3EW9Eg" title="Kallesh A. First Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+<h3> Summary </h3>
+My project is a custom object detection system. It uses TensorFlow Lite with a Raspberry Pi 4 and the BrainCraft HAT. It will be able to detect and recognize specific objects and has many real life uses such as it can be used in robotics and security systems. The main components needed for this project are a Raspberry Pi and it runs software to process data. The Adafruit BrainCraft HAT, is connected to the Raspberry Pi and provides a display or you can use a monitor instead with I have done. A keyboard and mouse to control the Raspberry Pi. And along with that to capture video I am using a  Raspberry Pi Camera Module 3. This video can be shown on both the Adafruit HAT or a laptop/monitor. The laptop uses OBS and manages the video output by the camera. And you would need a power supply to supply the entire project and allow it to run. Progress I have made so far is that I have attached all my hardware together and updated my Pi and have it all set up for my next milestones. 
+
+<h3> Challenges Faced </h3>
+Challenges I am facing was getting n to output through the BrainCraft HAT when the monitor was working along with it so to bypass this I am just going to use the computer screen through OBS as I have a bigger screen and better resolution this way and is easier to work with the rest of the project is working smoothly with no issues. 
+
+
+<h3> Future Plans </h3>
+My plan to complete my project is to first test all my compnents so next I will test my camera and fix issues if there are any and then after that do milestone 2 wich would be getting a working camera and then finally run the code and get the entire project working wich would be my milestone 3 and finally work on my modifications. 
+
+<!--- 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
@@ -89,7 +95,7 @@ One of the best parts about Github is that you can view how other people set up 
 
 To watch the BSE tutorial on how to create a portfolio, click here.
 
----> # Starter Project 
+---> <h3>Starter Project</h3> 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fD4Bt4kgAtw" title="Kallesh A. Starter Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
