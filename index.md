@@ -28,7 +28,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 
 ---> 
-<h3> Second Milestone </h3>
+<h2> Milestone 2 </h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/84xeKC2HaYY" title="Kallesh A. Second Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -44,7 +44,7 @@ Some things that need to be completed before my final milestone are that I need 
 
 
 
-<h3>Milestone 1</h3>
+<h2>Milestone 1</h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pln_3EW9Eg" title="Kallesh A. First Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -79,7 +79,7 @@ void loop() {
 }
 ```
 --->
-<h3> Bill of Materials </h3>
+<h2> Bill of Materials </h2>
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
@@ -89,14 +89,6 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Adafruit BrainCraft HAT | Output of the Raspberry Pi | $44.95| <a href ="https://www.adafruit.com/product/4374/"> Link </a> |
 | Logitech K120 Keyboard | Input | $12.34 | <a href="https://www.amazon.com/Logitech-920-002478-K120-USB-Keyboard/dp/B003ELVLKU/ref=sr_1_2?crid=3QE83NKLCZ1UB&dib=eyJ2IjoiMSJ9.hGINAjjbAmcnMmhSu62W7ybtCHaT8ifr068BE_xt70sqaJKSERXvtm9l4hcYzEzb1Nadmebc8KfMnVBUMOHJ_fo_kXmFEZ2vVP70KkO0JfP_imqKzqrFmr2PcwG1egHFtqYNIuwuBlGPaihgt6WzWLyBDvc2R7EMOPgLOsKY1VU-SgHs18jkv59qxYLWyeCnfLo88_cstvYpQygQcHqg05iKghON5vYXtHjiUaHM45dKs2eBoMiAmUKu09tcs6j93HJBOjJSF850VYd05UpW1PSgwPFabdDnlwHm7-xTAHk.9L3Pp4zftTMPPQaXuohixdM7KOBZGOdJMPSt1_RXcTk&dib_tag=se&keywords=k120&qid=1718309899&s=electronics&sprefix=k120%2Celectronics%2C142&sr=1-2&th=1/"> Link </a> |
 | Logitech B100 Mouse | Input and selection | $7.99 | <a href="https://www.amazon.com/Logitech-B100-Corded-Mouse-Computers/dp/B003L62T7W/ref=sr_1_3?crid=2GLUL6WJZ0GKO&dib=eyJ2IjoiMSJ9.OKAfwMtMmgjzpEXrJp10_w8xKaMtq7qsCFw-slfV25FJ6ELYelI8G81zHARc8xMbnTCq0tL_OChdFmyNgEhRPUoxERchBVR8gjhwMqhTFISEKzIPDAg4q4-67bUtJ9QuR-JyYdy4QKrLb_eqwybdizcPq1iZbiJ7LZNoIMVa6qXXi_bSBFNF3n90LwKkWHf0m7aNz-YVruwux6_LjHomLs7nRuOJZq9HAm_VWolRxoC5zXDEE4HmjvR3PZX3RyQ3xegWDG9tbdSWfNdPpzPbkSI2vTYmhCHUokWoZ-0Po-g.clnJylxu8WzF8OdB44ZsJ2Hct5aYZCMng0HDx-eXojM&dib_tag=se&keywords=mouse%2Blogitech%2Bwired&qid=1718309962&s=electronics&sprefix=mouse%2Blogitech%2Bwir%2Celectronics%2C137&sr=1-3&th=1/"> Link </a> |
-
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
 
 
 <h3>Starter Project</h3> 
