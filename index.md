@@ -14,20 +14,31 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 
   
-<!--- # Final Milestone
+ # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<h2>Milestone 3</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1440" height="484" src="https://www.youtube.com/embed/tuY4uSTVrEc" title="Kallesh A. Third Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+<h3>Acomplishements Since Mile Stone 2</h3>
+
+Since my previous milestone I have been able to incorporate my code along with Tensor Flow to detect objects and get my project working properly. I cloned a GitHub repository so that is where I got my data set from and now I can detect a variety of things from house hold items, electronics and and animals.
+
+<h3>Challenges and Triumphs </h3>
+
+My biggest challenges was that I had an error that was very difficult to solve and only worked after completely running all the code back by deleting it all and then had to run all the code commands again. My biggest triumph was when I fixed this issue and finally got my project to work.
+
+<h3>Key Topics Learned</h3>
+
+Key topics I learned about here at BSE was I learned how TensorFlow worked, how Raspberry Pi’s work and how HTML code works, and ways to train your model using Teachable Machine and how to maneuver through Github and use open source code.
+
+<h3>For the Future </h3>
+
+In the future I hope to learn more about different types of coding languages and more hardware aspects as my project didn’t rely much on the hardware aspect and more software so I would like to learn more about the hardware aspect of things. 
 
 
----> 
+
+
 <h2> Milestone 2 </h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/84xeKC2HaYY" title="Kallesh A. Second Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
