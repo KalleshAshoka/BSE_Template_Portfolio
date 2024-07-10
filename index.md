@@ -74,9 +74,10 @@ My plan to complete my project is to first test all my compnents so next I will 
 
 <h2> Code </h2>
 
-```ruby
+```python
 
 # SPDX-FileCopyrightText: 2019 Leigh Johnson
+#
 # SPDX-License-Identifier: MIT
 
 # Example here:
@@ -106,47 +107,46 @@ class FlowerDataset(object):
                                             fname='flower_photos', untar=True)
         data_root = pathlib.Path(data_root)
 
-        image_paths are list(data_root.glob('*/*'))
-        image_paths are [str(path) for path in image_paths]
+        image_paths = list(data_root.glob('*/*'))
+        image_paths = [str(path) for path in image_paths]
         random.shuffle(image_paths)
-        self.image_paths are image_paths
-        label_names are sorted(
+        self.image_paths = image_paths
+        label_names = sorted(
             item.name for item in data_root.glob('*/') if item.is_dir())
-        label_to_index is dict((name, index)
+        label_to_index = dict((name, index)
                               for index, name in enumerate(label_names))
-        self.label_names are label_names
+        self.label_names = label_names
 
-        image_labels are [label_to_index[pathlib.Path(path).parent.name]
+        image_labels = [label_to_index[pathlib.Path(path).parent.name]
                         for path in image_paths]
 
         return self.init_tensors(image_paths, image_labels)
 
     def init_tensors(self, image_paths, image_labels):
-        ds is tf.data.Dataset.from_tensor_slices((image_paths, image_labels))
-        image_label_ds is ds.map(self.load_and_preprocess_from_path_label)
+        ds = tf.data.Dataset.from_tensor_slices((image_paths, image_labels))
+        image_label_ds = ds.map(self.load_and_preprocess_from_path_label)
         return image_label_ds
 
     def load_and_preprocess_from_path_label(self, path, label):
         return self.load_and_preprocess_image(path), label
 
     def load_and_preprocess_image(self, path):
-        image is tf.io.read_file(path)
+        image = tf.io.read_file(path)
         return self.preprocess_image(image)
 
     def preprocess_image(self, image):
-        image is tf.image.decode_jpeg(image, channels=self.image_channels)
-        image is tf.image.resize(image, self.image_size)
+        image = tf.image.decode_jpeg(image, channels=self.image_channels)
+        image = tf.image.resize(image, self.image_size)
         # image /= 255.0  # normalize to [0,1] range
         # image = 2*image-1  # normalize to [-1, 1] range
-        image is preprocess_input(image)
+        image = preprocess_input(image)
         return image
-
 ```
 
 <h2> Bill of Materials </h2>
 
-
-
+| **Part** | **Note** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
 | CanaKit Raspberry Pi 4 Starter Kit | Image/Object Detection | $119.95 | <a href="https://www.canakit.com/raspberry-pi-4-starter-kit.html/"> Link </a> |
 | Logitech K120 Keyboard | Input | $12.34 | <a href="https://www.amazon.com/Logitech-920-002478-K120-USB-Keyboard/dp/B003ELVLKU/ref=sr_1_2?crid=3QE83NKLCZ1UB&dib=eyJ2IjoiMSJ9.hGINAjjbAmcnMmhSu62W7ybtCHaT8ifr068BE_xt70sqaJKSERXvtm9l4hcYzEzb1Nadmebc8KfMnVBUMOHJ_fo_kXmFEZ2vVP70KkO0JfP_imqKzqrFmr2PcwG1egHFtqYNIuwuBlGPaihgt6WzWLyBDvc2R7EMOPgLOsKY1VU-SgHs18jkv59qxYLWyeCnfLo88_cstvYpQygQcHqg05iKghON5vYXtHjiUaHM45dKs2eBoMiAmUKu09tcs6j93HJBOjJSF850VYd05UpW1PSgwPFabdDnlwHm7-xTAHk.9L3Pp4zftTMPPQaXuohixdM7KOBZGOdJMPSt1_RXcTk&dib_tag=se&keywords=k120&qid=1718309899&s=electronics&sprefix=k120%2Celectronics%2C142&sr=1-2&th=1/"> Link </a> |
 | Logitech B100 Mouse | Input and selection | $7.99 | <a href="https://www.amazon.com/Logitech-B100-Corded-Mouse-Computers/dp/B003L62T7W/ref=sr_1_3?crid=2GLUL6WJZ0GKO&dib=eyJ2IjoiMSJ9.OKAfwMtMmgjzpEXrJp10_w8xKaMtq7qsCFw-slfV25FJ6ELYelI8G81zHARc8xMbnTCq0tL_OChdFmyNgEhRPUoxERchBVR8gjhwMqhTFISEKzIPDAg4q4-67bUtJ9QuR-JyYdy4QKrLb_eqwybdizcPq1iZbiJ7LZNoIMVa6qXXi_bSBFNF3n90LwKkWHf0m7aNz-YVruwux6_LjHomLs7nRuOJZq9HAm_VWolRxoC5zXDEE4HmjvR3PZX3RyQ3xegWDG9tbdSWfNdPpzPbkSI2vTYmhCHUokWoZ-0Po-g.clnJylxu8WzF8OdB44ZsJ2Hct5aYZCMng0HDx-eXojM&dib_tag=se&keywords=mouse%2Blogitech%2Bwired&qid=1718309962&s=electronics&sprefix=mouse%2Blogitech%2Bwir%2Celectronics%2C137&sr=1-3&th=1/"> Link </a> |
