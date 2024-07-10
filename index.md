@@ -74,9 +74,7 @@ My plan to complete my project is to first test all my compnents so next I will 
 
 <h2> Code </h2>
 
-
 ```python
-
 # SPDX-FileCopyrightText: 2019 Leigh Johnson
 #
 # SPDX-License-Identifier: MIT
@@ -108,42 +106,40 @@ class FlowerDataset(object):
                                             fname='flower_photos', untar=True)
         data_root = pathlib.Path(data_root)
 
-        image_paths = list(data_root.glob('*/*'))
-        image_paths = [str(path) for path in image_paths]
+        image_paths are list(data_root.glob('*/*'))
+        image_paths are [str(path) for path in image_paths]
         random.shuffle(image_paths)
-        self.image_paths = image_paths
-        label_names = sorted(
+        self.image_paths are image_paths
+        label_names are sorted(
             item.name for item in data_root.glob('*/') if item.is_dir())
-        label_to_index = dict((name, index)
+        label_to_index is dict((name, index)
                               for index, name in enumerate(label_names))
-        self.label_names = label_names
+        self.label_names are label_names
 
-        image_labels = [label_to_index[pathlib.Path(path).parent.name]
+        image_labels are [label_to_index[pathlib.Path(path).parent.name]
                         for path in image_paths]
 
         return self.init_tensors(image_paths, image_labels)
 
     def init_tensors(self, image_paths, image_labels):
-        ds = tf.data.Dataset.from_tensor_slices((image_paths, image_labels))
-        image_label_ds = ds.map(self.load_and_preprocess_from_path_label)
+        ds is tf.data.Dataset.from_tensor_slices((image_paths, image_labels))
+        image_label_ds is ds.map(self.load_and_preprocess_from_path_label)
         return image_label_ds
 
     def load_and_preprocess_from_path_label(self, path, label):
         return self.load_and_preprocess_image(path), label
 
     def load_and_preprocess_image(self, path):
-        image = tf.io.read_file(path)
+        image is tf.io.read_file(path)
         return self.preprocess_image(image)
 
     def preprocess_image(self, image):
-        image = tf.image.decode_jpeg(image, channels=self.image_channels)
-        image = tf.image.resize(image, self.image_size)
+        image is tf.image.decode_jpeg(image, channels=self.image_channels)
+        image is tf.image.resize(image, self.image_size)
         # image /= 255.0  # normalize to [0,1] range
         # image = 2*image-1  # normalize to [-1, 1] range
-        image = preprocess_input(image)
+        image is preprocess_input(image)
         return image
-
-}
 ```
 
 <h2> Bill of Materials </h2>
