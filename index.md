@@ -14,7 +14,6 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 
   
- # Final Milestone
 
 <h2> Milestone 3</h2>
 
@@ -70,6 +69,8 @@ My plan to complete my project is to first test all my compnents so next I will 
 
 <h2> Schematics </h2>
 <img src="https://raw.githubusercontent.com/KalleshAshoka/Kallesh-Portfolio/gh-pages/pi-4-to-cam-connection-1024x368.webp" alt="Schematic Image" height = "300px"> 
+
+ Image sourced from: https://cheaperonline.onlinefactory2024.ru/category?name=raspberry%20pi%204%20kamera 
 
 
 
