@@ -16,23 +16,19 @@ Replace this text with a brief description (2-3 sentences) of your project. This
   
  # Final Milestone
 
-<h2>Milestone 3</h2>
+<h2> Milestone 3</h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tuY4uSTVrEc" title="Kallesh A. Third Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h3>Acomplishements Since Mile Stone 2</h3>
+<h4> Summary </4>
 
-Since my previous milestone I have been able to incorporate my code along with Tensor Flow to detect objects and get my project working properly. I cloned a GitHub repository so that is where I got my data set from and now I can detect a variety of things from house hold items, electronics and and animals.
+Since my previous milestone I have been able to incorporate my code along with Tensor Flow to detect objects and get my project working properly. I cloned a GitHub repository so that is where I got my data set from and now I can detect a variety of things from house hold items, electronics and and animals. Key topics I learned about here at BSE was I learned how TensorFlow worked, how Raspberry Pi’s work and how HTML code works, and ways to train your model using Teachable Machine and how to maneuver through Github and use open source code.
 
-<h3>Challenges and Triumphs </h3>
+<h4> Challenges </h4>
 
 My biggest challenges was that I had an error that was very difficult to solve and only worked after completely running all the code back by deleting it all and then had to run all the code commands again. My biggest triumph was when I fixed this issue and finally got my project to work.
 
-<h3>Key Topics Learned</h3>
-
-Key topics I learned about here at BSE was I learned how TensorFlow worked, how Raspberry Pi’s work and how HTML code works, and ways to train your model using Teachable Machine and how to maneuver through Github and use open source code.
-
-<h3>For the Future </h3>
+<h4> Future Plans </h4>
 
 In the future I hope to learn more about different types of coding languages and more hardware aspects as my project didn’t rely much on the hardware aspect and more software so I would like to learn more about the hardware aspect of things. 
 
@@ -43,10 +39,10 @@ In the future I hope to learn more about different types of coding languages and
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/84xeKC2HaYY" title="Kallesh A. Second Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h4> Techincal Details</h4>
+<h4> Summary </h4>
 Since my previous milestone I have added a camera and the specific camera I added is the Raspberry Pi Camera Module 3. Then I had to test this camera with the code “libcamera-hello -t 0”. This line of code is entered into the terminal on the Pi and it causes the camera to turn on for an indefinite amount of time and you can turn of the camera by pressing “ctr C” in the same terminal as the run command.  The camera contributes to the final goal as it is fundamental for the object detection and can’t be done without it.
 
-<h4> Challenges and Suprises</h4>
+<h4> Challenges </h4>
 
 The thing that was surprising about the project was that I thought it would be more challenging but everything seems to be running smooth for the most part. But I think I will face some issues as for the 3rd milestone it will be more coding intensive and I can run into some issues there. Previous challenges I faced was the Adafruit BrainCraft HAT not working so I decided to use my monitor instead as it would be easier and higher resolution and overall easier to use. 
 
@@ -159,7 +155,7 @@ class FlowerDataset(object):
 | Logitech B100 Mouse | Input and selection | $7.99 | <a href="https://www.amazon.com/Logitech-B100-Corded-Mouse-Computers/dp/B003L62T7W/ref=sr_1_3?crid=2GLUL6WJZ0GKO&dib=eyJ2IjoiMSJ9.OKAfwMtMmgjzpEXrJp10_w8xKaMtq7qsCFw-slfV25FJ6ELYelI8G81zHARc8xMbnTCq0tL_OChdFmyNgEhRPUoxERchBVR8gjhwMqhTFISEKzIPDAg4q4-67bUtJ9QuR-JyYdy4QKrLb_eqwybdizcPq1iZbiJ7LZNoIMVa6qXXi_bSBFNF3n90LwKkWHf0m7aNz-YVruwux6_LjHomLs7nRuOJZq9HAm_VWolRxoC5zXDEE4HmjvR3PZX3RyQ3xegWDG9tbdSWfNdPpzPbkSI2vTYmhCHUokWoZ-0Po-g.clnJylxu8WzF8OdB44ZsJ2Hct5aYZCMng0HDx-eXojM&dib_tag=se&keywords=mouse%2Blogitech%2Bwired&qid=1718309962&s=electronics&sprefix=mouse%2Blogitech%2Bwir%2Celectronics%2C137&sr=1-3&th=1/"> Link </a> |
 
 
-<h3>Starter Project</h3> 
+<h2> Starter Project </h2> 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fD4Bt4kgAtw" title="Kallesh A. Starter Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -168,6 +164,6 @@ class FlowerDataset(object):
 
 My starter project was a retro arcade game. It is a handheld game with includes five classic retro games: Tetris, Snakes, Racing Cars, Space Invaders, and Slots Machine. It is a fun and educational journey as you have to build it yourself. It is a great project once completed to use with family and friends. It is easy to assemble as the instructions are very straight forward. Its main features are six large buttons with rounded acrylic case corners for a comfortable user experience. The game’s working voltage is DC 3.5-5.5V. You can play games with a power bank, 5v power adapter or 3 AAA batteries.
 
-<h4>Challenges Faced</h4>
+<h4>Challenges </h4>
 
 Some challenges I faced was that I was missing a screw wich caused some difficulty and had to position my other screws in a way to keep it as stable as possible and also my lack of soldering caused the timer at the top to be placed in tilted and since I put too much solder it was extremely hard to remove the solder but it still worked overall. 
