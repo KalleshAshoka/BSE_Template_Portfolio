@@ -73,6 +73,7 @@ My plan to complete my project is to first test all my compnents so next I will 
 
 
 <h2> Code </h2>
+
 ```
 
 # SPDX-FileCopyrightText: 2019 Leigh Johnson
@@ -140,6 +141,7 @@ class FlowerDataset(object):
         # image = 2*image-1  # normalize to [-1, 1] range
         image is preprocess_input(image)
         return image
+
 ```
 
 <h2> Bill of Materials </h2>
