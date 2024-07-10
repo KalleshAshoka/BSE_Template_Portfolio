@@ -69,10 +69,12 @@ Challenges I am facing was getting n to output through the BrainCraft HAT when t
 <h4> Future Plans </h4>
 My plan to complete my project is to first test all my compnents so next I will test my camera and fix issues if there are any and then after that do milestone 2 wich would be getting a working camera and then finally run the code and get the entire project working wich would be my milestone 3 and finally work on my modifications. 
 
-<!--- 
+
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+<img src="https://raw.githubusercontent.com/KalleshAshoka/Kallesh-Portfolio/gh-pages/pi-4-to-cam-connection-1024x368.webp" alt="Schematic Image" height = "300px"> 
+
+<!--- 
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
