@@ -18,7 +18,7 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 <h2>Milestone 3</h2>
 
-<iframe width="1440" height="484" src="https://www.youtube.com/embed/tuY4uSTVrEc" title="Kallesh A. Third Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tuY4uSTVrEc" title="Kallesh A. Third Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h3>Acomplishements Since Mile Stone 2</h3>
 
