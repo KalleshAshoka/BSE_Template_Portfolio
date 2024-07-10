@@ -75,7 +75,7 @@ My plan to complete my project is to first test all my compnents so next I will 
 <h2> Code </h2>
 
 
-``` python
+```python
 
 # SPDX-FileCopyrightText: 2019 Leigh Johnson
 #
