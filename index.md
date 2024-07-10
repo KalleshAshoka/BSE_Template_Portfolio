@@ -20,7 +20,7 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tuY4uSTVrEc" title="Kallesh A. Third Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h4> Summary </4>
+<h4> Summary </h4>
 
 Since my previous milestone I have been able to incorporate my code along with Tensor Flow to detect objects and get my project working properly. I cloned a GitHub repository so that is where I got my data set from and now I can detect a variety of things from house hold items, electronics and and animals. Key topics I learned about here at BSE was I learned how TensorFlow worked, how Raspberry Pi’s work and how HTML code works, and ways to train your model using Teachable Machine and how to maneuver through Github and use open source code.
 
@@ -40,6 +40,7 @@ In the future I hope to learn more about different types of coding languages and
 <iframe width="560" height="315" src="https://www.youtube.com/embed/84xeKC2HaYY" title="Kallesh A. Second Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h4> Summary </h4>
+
 Since my previous milestone I have added a camera and the specific camera I added is the Raspberry Pi Camera Module 3. Then I had to test this camera with the code “libcamera-hello -t 0”. This line of code is entered into the terminal on the Pi and it causes the camera to turn on for an indefinite amount of time and you can turn of the camera by pressing “ctr C” in the same terminal as the run command.  The camera contributes to the final goal as it is fundamental for the object detection and can’t be done without it.
 
 <h4> Challenges </h4>
