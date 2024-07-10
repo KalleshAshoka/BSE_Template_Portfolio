@@ -58,8 +58,8 @@ Some things that need to be completed before my final milestone are that I need 
 <h4> Summary </h4>
 My project is a custom object detection system. It uses TensorFlow Lite with a Raspberry Pi 4 and the BrainCraft HAT. It will be able to detect and recognize specific objects and has many real life uses such as it can be used in robotics and security systems. The main components needed for this project are a Raspberry Pi and it runs software to process data. The Adafruit BrainCraft HAT, is connected to the Raspberry Pi and provides a display or you can use a monitor instead with I have done. A keyboard and mouse to control the Raspberry Pi. And along with that to capture video I am using a  Raspberry Pi Camera Module 3. This video can be shown on both the Adafruit HAT or a laptop/monitor. The laptop uses OBS and manages the video output by the camera. And you would need a power supply to supply the entire project and allow it to run. Progress I have made so far is that I have attached all my hardware together and updated my Pi and have it all set up for my next milestones. 
 
-<h4> Challenges Faced </h4>
-Challenges I am facing was getting n to output through the BrainCraft HAT when the monitor was working along with it so to bypass this I am just going to use the computer screen through OBS as I have a bigger screen and better resolution this way and is easier to work with the rest of the project is working smoothly with no issues. 
+<h4> Challenges </h4>
+Challenges I am facing was getting output through the BrainCraft HAT when the monitor was working along with it so to bypass this I am just going to use the computer screen through OBS as I have a bigger screen and better resolution this way and is easier to work with the rest of the project is working smoothly with no issues. 
 
 
 <h4> Future Plans </h4>
@@ -67,12 +67,12 @@ My plan to complete my project is to first test all my compnents so next I will 
 
 
 
-# Schematics 
+<h2> Schematics </h2>
 <img src="https://raw.githubusercontent.com/KalleshAshoka/Kallesh-Portfolio/gh-pages/pi-4-to-cam-connection-1024x368.webp" alt="Schematic Image" height = "300px"> 
 
 
 
-# Code
+<h2> Code </h2>
 
 
 ```
