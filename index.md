@@ -74,10 +74,9 @@ My plan to complete my project is to first test all my compnents so next I will 
 
 <h2> Code </h2>
 
-```
+```ruby
 
 # SPDX-FileCopyrightText: 2019 Leigh Johnson
-#
 # SPDX-License-Identifier: MIT
 
 # Example here:
