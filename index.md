@@ -1,5 +1,5 @@
-<!--- #Object Detection
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! --->
+<h2> Object Detection Using TensorFlow </h2>
+My project is an object detection system using tensor flow and it can detect many house hold animals and a variety of different animals. My biggest challenges were that there are a array of both hardware and software problems possible when engineering. And My biggest takeaways is that you shouldn’t be to overconfident about certain things as the smallest things can cause the biggest problems. 
 
 
 
@@ -21,7 +21,7 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 <h4> Summary </h4>
 
-Since my previous milestone I have been able to incorporate my code along with Tensor Flow to detect objects and get my project working properly. I cloned a GitHub repository so that is where I got my data set from and now I can detect a variety of things from house hold items, electronics and and animals. Key topics I learned about here at BSE was I learned how TensorFlow worked, how Raspberry Pi’s work and how HTML code works, and ways to train your model using Teachable Machine and how to maneuver through Github and use open source code.
+Since my previous milestone I have been able to incorporate my code along with Tensor Flow to detect objects and get my project working properly. I cloned a GitHub repository so that is where I got my data set from and now I can detect a variety of things from house hold items, electronics and animals. Key topics I learned about here at BSE was I learned how TensorFlow worked, how Raspberry Pi’s work and how HTML code works, and ways to train your model using Teachable Machine and how to maneuver through Github and use open source code.
 
 <h4> Challenges </h4>
 
@@ -44,10 +44,10 @@ Since my previous milestone I have added a camera and the specific camera I adde
 
 <h4> Challenges </h4>
 
-The thing that was surprising about the project was that I thought it would be more challenging but everything seems to be running smooth for the most part. But I think I will face some issues as for the 3rd milestone it will be more coding intensive and I can run into some issues there. Previous challenges I faced was the Adafruit BrainCraft HAT not working so I decided to use my monitor instead as it would be easier and higher resolution and overall easier to use. 
+The thing that was surprising about the project was that I thought it would be more challenging but everything seemed to be running smooth for the most part. But I think I will face some issues as for the 3rd milestone it will be more coding intensive and I can run into some issues there. Previous challenges I faced was the Adafruit BrainCraft HAT not working so I decided to use my monitor instead as it would be easier and higher resolution and overall easier to use. 
 
 <h4> Future Plans </h4> 
-Some things that need to be completed before my final milestone are that I need to get the code for the actual object detection and get it working and set up the data set and do some AI training on parts to get it working properly. 
+Some things that need to be completed before my final milestone are that I need to get the code for the actual object detection working along with setting up the datasets needed. 
 
 
 
@@ -56,7 +56,7 @@ Some things that need to be completed before my final milestone are that I need 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pln_3EW9Eg" title="Kallesh A. First Milestone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h4> Summary </h4>
-My project is a custom object detection system. It uses TensorFlow Lite with a Raspberry Pi 4 and the BrainCraft HAT. It will be able to detect and recognize specific objects and has many real life uses such as it can be used in robotics and security systems. The main components needed for this project are a Raspberry Pi and it runs software to process data. The Adafruit BrainCraft HAT, is connected to the Raspberry Pi and provides a display or you can use a monitor instead with I have done. A keyboard and mouse to control the Raspberry Pi. And along with that to capture video I am using a  Raspberry Pi Camera Module 3. This video can be shown on both the Adafruit HAT or a laptop/monitor. The laptop uses OBS and manages the video output by the camera. And you would need a power supply to supply the entire project and allow it to run. Progress I have made so far is that I have attached all my hardware together and updated my Pi and have it all set up for my next milestones. 
+My project is a object detection system. It uses TensorFlow Lite with a Raspberry Pi 4 and the BrainCraft HAT. It will be able to detect and recognize specific objects and has many real life uses such as it can be used in robotics and security systems. The main components needed for this project are a Raspberry Pi and it runs software to process data. The Adafruit BrainCraft HAT, is connected to the Raspberry Pi and provides a display or you can use a monitor instead with I have done. A keyboard and mouse to control the Raspberry Pi. And along with that to capture video I am using a  Raspberry Pi Camera Module 3. This video can be shown on both the Adafruit HAT or a laptop/monitor. The laptop uses OBS and manages the video output by the camera. And you would need a power supply to supply the entire project and allow it to run. Progress I have made so far is that I have attached all my hardware together and updated my Pi and have it all set up for my next milestones. 
 
 <h4> Challenges </h4>
 Challenges I am facing was getting output through the BrainCraft HAT when the monitor was working along with it so to bypass this I am just going to use the computer screen through OBS as I have a bigger screen and better resolution this way and is easier to work with the rest of the project is working smoothly with no issues. 
